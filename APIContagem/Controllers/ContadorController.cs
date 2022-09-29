@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Runtime.Versioning;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-
+/* isso é um comentário */
 namespace APIContagem.Controllers
 {
     [ApiController]
